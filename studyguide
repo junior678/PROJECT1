@@ -70,6 +70,7 @@ Master Branch
 14
 What limb are you on?
 How do you check which branch you presently have checked out?
+run "git branch" and view the "*" symbol. This indicates the branch you are currently on.
 
 15
 Git what?!
