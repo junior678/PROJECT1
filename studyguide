@@ -75,6 +75,7 @@ run "git branch" and view the "*" symbol. This indicates the branch you are curr
 15
 Git what?!
 What is github?
+It is a web-based git repository systems that enables you to share your git and allow remote collaborations.
 
 16
 We see a need!
