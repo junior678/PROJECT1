@@ -122,4 +122,4 @@ Enough information to provide details of what was done!
 22
 Great Scott!
 If there was a mistake made in the past of a project, how should we go about correcting that mistake?
-
+View git log and check out the specific commit to work on. It is important to pay attention to the possible merging conflicts for successful corrections.
