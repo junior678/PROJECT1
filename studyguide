@@ -35,6 +35,7 @@ A lightweight movable pointer to a specific commit
 7
 The life of a limb
 How long are branches in git supposed to exist?
+Until you merge them.
 
 8
 Tree growth
