@@ -96,6 +96,18 @@ What makes git different than other version control systems?
 What were they thinking?!
 What were the design criteria for git?
 
+
+    Speed
+
+    Simple design
+
+    Strong support for non-linear development (thousands of parallel branches)
+
+    Fully distributed
+
+    Able to handle large projects like the Linux kernel efficiently (speed and data size)
+
+
 20
 Time machine
 How do we view the past of a project with git?
