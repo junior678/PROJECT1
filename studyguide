@@ -85,6 +85,7 @@ It was created as a result of bitkeeper's free of charge status and the need of 
 17
 A day in the life of git
 What is a typical git workflow?
+Long-Running branches which involves having a stable master branch and have another parallel branch named "develop" or "next".
 
 18
 Why git?
