@@ -20,6 +20,7 @@ Provides a great way to collaborate with different groups of people remotely in 
 4
 Committing to git
 What is a commit?
+Takes the files as they are in the staging area and stores that snapshot permanently to your Git directory.
 
 5
 Checking out git
