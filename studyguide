@@ -45,6 +45,7 @@ How do you create a branch in git?
 9
 Swinging on a vine
 How do you switch branches in git?
+"git checkou <name of branch>" 
 
 10
 Taping it together
