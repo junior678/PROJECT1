@@ -111,6 +111,7 @@ What were the design criteria for git?
 20
 Time machine
 How do we view the past of a project with git?
+"git log"
 
 21
 Commit Comment
