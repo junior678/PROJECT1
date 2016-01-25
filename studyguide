@@ -25,6 +25,7 @@ Takes the files as they are in the staging area and stores that snapshot permane
 5
 Checking out git
 What is a check out?
+Enables you to switch to a specific branch
 
 6
 It’s like a tree limb
