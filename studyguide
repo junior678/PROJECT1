@@ -55,6 +55,7 @@ switch to your master branch and use command "git merge"
 11
 Status
 How do you check the status of the files you are presently working on?
+"git status"
 
 12
 Adding to the chaos
