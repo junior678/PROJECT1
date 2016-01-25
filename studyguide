@@ -80,6 +80,7 @@ It is a web-based git repository systems that enables you to share your git and 
 16
 We see a need!
 Why was git created?
+It was created as a result of bitkeeper's free of charge status and the need of developing linux's own tool based on bitkeeper.
 
 17
 A day in the life of git
