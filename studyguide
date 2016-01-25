@@ -90,6 +90,7 @@ Long-Running branches which involves having a stable master branch and have anot
 18
 Why git?
 What makes git different than other version control systems?
+ Git doesn’t think of or store its data this way. Instead, Git thinks of its data more like a set of snapshots of a miniature filesystem.
 
 19
 What were they thinking?!
