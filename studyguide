@@ -50,6 +50,7 @@ How do you switch branches in git?
 10
 Taping it together
 How do you merge branches in git?
+switch to your master branch and use command "git merge"
 
 11
 Status
