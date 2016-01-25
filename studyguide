@@ -10,6 +10,7 @@ Version control is a system that records changes to a file or set of files over 
 Where the heart is
 What is the difference between distributed and centralized version control
 systems?
+Centralized Version Control Systems have a single server that contains all the versioned files, and a number of clients that check out files from that central place. On the other hand in distributed vcs the clients fully mirror the repository.
 
 3
 Versa who?!
