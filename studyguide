@@ -30,6 +30,7 @@ Enables you to switch to a specific branch
 6
 It’s like a tree limb
 What is a branch?
+A lightweight movable pointer to a specific commit
 
 7
 The life of a limb
